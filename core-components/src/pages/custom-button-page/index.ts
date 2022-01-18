@@ -1,0 +1,1 @@
+export { CustomButtonPage } from './custom-button-page';
